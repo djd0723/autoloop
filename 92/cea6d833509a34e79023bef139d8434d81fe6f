@@ -1,0 +1,37 @@
+packages/presets/presets/okf-wiki/topology.toml
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-32
+packages/presets/presets/okf-wiki/autoloops.toml
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-38
+packages/presets/presets/okf-wiki/harness.md
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-27
+packages/presets/presets/okf-wiki/roles/cleaner.md
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-54
+packages/presets/presets/okf-wiki/README.md
+  s_5f952bcd023684::t_3c41a918c73196 1-136
+packages/presets/presets/okf-wiki/roles/writer.md
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-32
+.gitignore
+  s_5f952bcd023684::t_73a99cdfb248ed 7
+packages/presets/presets/okf-wiki/hooks/pre-commit
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-74
+packages/presets/presets/okf-wiki/roles/advance.md
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-50
+packages/presets/presets/okf-wiki/roles/synthesize.md
+  s_5f952bcd023684::t_f4f1b1f91ed76b 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "92cea6d833509a34e79023bef139d8434d81fe6f",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
