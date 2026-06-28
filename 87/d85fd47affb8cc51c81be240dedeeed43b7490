@@ -1,0 +1,42 @@
+packages/presets/presets/autowiki/roles/synthesize.md
+  s_5f952bcd023684::t_c6d7e84776df7e 3,13,16-17,19-23,36-38,40
+  s_5f952bcd023684::t_0029323653d1f6 4-7,9,11-12,24-26,28,30-31,35,39
+packages/presets/presets/autowiki/scripts/okf-commit.sh
+  s_5f952bcd023684::t_dc43aad502cd0f 3-7,9-11
+packages/presets/presets/autowiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_6acacbf6051d53 2-3,6-9,11-14,17-18,24-29
+packages/presets/presets/autowiki/roles/merger.md
+  s_5f952bcd023684::t_55bbe3e9a38c4c 1-3,9,12-13,16-23
+packages/presets/presets/autowiki/scripts/okf-init.sh
+  s_5f952bcd023684::t_7379a7199382b2 47,51-53
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_3311069702491b 64,66-69
+  s_5f952bcd023684::t_19249efb50a30a 29
+  s_5f952bcd023684::t_397ed14cac1df6 30-35
+packages/presets/presets/autowiki/scripts/okf-slug.sh
+  s_5f952bcd023684::t_2c24ce84a24bc8 1-24
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_78a8f0b821ac0d 97
+packages/presets/presets/autowiki/roles/advance.md
+  s_5f952bcd023684::t_b7ff31a7a5c955 4,8-11,30,32-33,35-36,39-40,68-69
+  s_5f952bcd023684::t_c1fd1de682c189 13-18
+  s_5f952bcd023684::t_7c28b5bfee6d5f 23
+  s_5f952bcd023684::t_432581c736ddbd 3,6-7,58,67,70,72
+  s_5f952bcd023684::t_6e6db941b59648 41-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "87d85fd47affb8cc51c81be240dedeeed43b7490",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
