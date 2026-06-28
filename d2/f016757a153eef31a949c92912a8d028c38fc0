@@ -1,0 +1,23 @@
+packages/presets/presets/autowiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_e1c56372f71e8d 19-22
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_b941433f69a97f 25-29,37
+packages/presets/presets/autowiki/roles/writer.md
+  s_5f952bcd023684::t_ff4e82d31d1659 1-44,48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "d2f016757a153eef31a949c92912a8d028c38fc0",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
