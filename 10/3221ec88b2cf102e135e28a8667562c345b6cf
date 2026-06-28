@@ -1,0 +1,40 @@
+packages/presets/presets/okf-wiki/roles/advance.md
+  s_5f952bcd023684::t_d6ba7d5bd4ab09 3-5,11-14,19,28-29,31,35,37,40,46-47,50-53,56-58
+  s_5f952bcd023684::t_3db3ee313f686a 10,16-18,20,30,33-34,36,39,43-45,61
+  s_5f952bcd023684::t_c1c8cb5f9a3c43 15
+packages/presets/presets/okf-wiki/roles/writer.md
+  s_5f952bcd023684::t_b90995e0bd802f 27
+  s_5f952bcd023684::t_e8c593ff01b400 7-10
+  s_5f952bcd023684::t_447db661cb16eb 22-26,30-32
+packages/presets/presets/okf-wiki/README.md
+  s_5f952bcd023684::t_616428cef405a0 172-176
+  s_5f952bcd023684::t_4c76b4b1752af3 56-62
+  s_5f952bcd023684::t_3306e570e97e32 53-55,63
+  s_5f952bcd023684::t_dbbabcdecba7c3 126,129
+packages/presets/presets/okf-wiki/scripts/okf-capture.sh
+  s_5f952bcd023684::t_d77db415e14341 22-26
+packages/presets/presets/okf-wiki/scripts/okf-source-finish.sh
+  s_5f952bcd023684::t_c9a2fd9316f056 1-25
+packages/presets/presets/okf-wiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_f25b897fb3094d 1-20
+packages/presets/presets/okf-wiki/roles/cleaner.md
+  s_5f952bcd023684::t_cbe2db57841afd 1-3,5,7-8,10,12-15,17,19,22-37
+packages/presets/presets/okf-wiki/scripts/okf-source-start.sh
+  s_5f952bcd023684::t_0b0cb4ba6cb5c7 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "103221ec88b2cf102e135e28a8667562c345b6cf",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
