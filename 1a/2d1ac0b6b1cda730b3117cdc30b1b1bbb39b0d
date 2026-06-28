@@ -1,0 +1,36 @@
+packages/harness/src/config-helpers.ts
+  s_5f952bcd023684::t_aa9842f6be4e00 711-715,726
+  s_5f952bcd023684::t_950d5b1dc801fb 517-520
+packages/harness/test/harness/prompt-backend.test.ts
+  s_5f952bcd023684::t_86d07de5dabb63 184
+  s_5f952bcd023684::t_bafb78392b2cf2 141
+packages/backends/src/claude-sdk-client.ts
+  s_5f952bcd023684::t_20ee585e318a49 149-151
+  s_5f952bcd023684::t_96570f0ab47830 17-18
+  s_5f952bcd023684::t_e6e6718a08b735 152
+packages/harness/src/types.ts
+  s_5f952bcd023684::t_76ebb762c34cce 67
+packages/harness/src/backend/types.ts
+  s_5f952bcd023684::t_398cffc5e09630 13
+  s_5f952bcd023684::t_fbe4f557842692 29
+packages/harness/src/iteration.ts
+  s_5f952bcd023684::t_01904c5cd87987 177
+packages/core/src/config-schema.ts
+  s_5f952bcd023684::t_4467ae32aec7e8 41-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "1a2d1ac0b6b1cda730b3117cdc30b1b1bbb39b0d",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
