@@ -1,0 +1,24 @@
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_6d172d6eb1a121 149
+  s_5f952bcd023684::t_4bb294e0a5a6d7 155
+packages/cli/src/chains/load.ts
+  s_5f952bcd023684::t_6c5b3c8fa00b9b 83
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_3647967adc210d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9b3c433914a4bcfe10c2c2984ee6cf61b7b451b9",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
