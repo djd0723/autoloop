@@ -1,0 +1,160 @@
+packages/presets/presets/autowiki/roles/advance.md
+  s_5f952bcd023684::t_894b450b71b292 37-41
+  s_5f952bcd023684::t_e34e9d7717b5ce 3-13,19,21-22,35,45,70-71
+  s_5f952bcd023684::t_b7ff31a7a5c955 36,69
+  s_5f952bcd023684::t_74aa1ec12fb4b4 47-48,53-57
+  s_5f952bcd023684::t_432581c736ddbd 59,68,72
+  s_5f952bcd023684::t_eca3ac35e529b7 58
+  s_5f952bcd023684::t_abcbd6a303af27 30-34
+  s_5f952bcd023684::t_513e7fcdbf0d79 1-2
+  s_5f952bcd023684::t_c1fd1de682c189 20
+  s_5f952bcd023684::t_23c2f2ecf4ebf9 62-63
+  s_5f952bcd023684::t_9e5d656a1c91c8 14-18,27-29
+  s_5f952bcd023684::t_471ff7032799d5 42-44
+  s_5f952bcd023684::t_2faf730b0504e4 23-26
+  s_5f952bcd023684::t_f4ab9083cc4182 46,49-52
+  s_5f952bcd023684::t_538514450e82ab 64-67
+  s_5f952bcd023684::t_d9400c512fc6c4 60-61
+packages/presets/presets/autowiki/scripts/okf-commit.sh
+  s_5f952bcd023684::t_ce5e5c0c57898c 1
+  s_5f952bcd023684::t_c5ba9494443912 12-13
+  s_5f952bcd023684::t_aa3ea00a2d35c3 16-22,24
+  s_5f952bcd023684::t_1118be6d749737 2-6,8-11,14-15,23
+  s_5f952bcd023684::t_dc43aad502cd0f 7
+packages/presets/presets/autowiki/hooks/pre-commit
+  s_5f952bcd023684::t_96d6a3b742b339 1-86
+packages/presets/presets/autowiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_c03637393cc68f 1
+  s_5f952bcd023684::t_6acacbf6051d53 2-16,18,20-27,30,32
+  s_5f952bcd023684::t_5736a728abdf9b 17,19,28-29,31
+packages/presets/presets/autowiki/autoloops.toml
+  s_5f952bcd023684::t_307b9c406c8859 1-42
+packages/presets/presets/autowiki/roles/merger.md
+  s_5f952bcd023684::t_052fc601b906b8 16-18
+  s_5f952bcd023684::t_678ed6a8004e55 5,7,9,13
+  s_5f952bcd023684::t_55bbe3e9a38c4c 1-3,12,19-23
+  s_5f952bcd023684::t_31b54eb2b0a60e 4,6,8,10-11,14-15
+packages/presets/presets/autowiki/roles/writer.md
+  s_5f952bcd023684::t_e8e29aad09c38a 64-66
+  s_5f952bcd023684::t_ff4e82d31d1659 5-6,8-9,11,23-26,34-35,45-46,50,52,54,56,59-60,63
+  s_5f952bcd023684::t_ac6c76fadd0260 38-44
+  s_5f952bcd023684::t_d9182ab22c06d1 7,47,49,55,57-58,61-62,67
+  s_5f952bcd023684::t_bb0df4b3a40b7c 1-4,10,12-22,27-29,32-33
+  s_5f952bcd023684::t_aea8d85054e976 30-31,36-37
+  s_5f952bcd023684::t_de0895ce38e172 48,51,53
+  s_5f952bcd023684::t_5a9944b5fa7a29 68-69
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_28b0833fae814b 169
+  s_5f952bcd023684::t_f6c08c72f5f74d 3-6,8-12,14-18,20-21
+  s_5f952bcd023684::t_893744f1b8e284 196-198
+  s_5f952bcd023684::t_54e2fd78159ce7 86
+  s_5f952bcd023684::t_fc00cac0786644 45-47,68-70
+  s_5f952bcd023684::t_e09e3710a2a186 152-153,157-158,166-168
+  s_5f952bcd023684::t_38183571928e58 1-2,7,13,19,22,48-67,111-123,188-190
+  s_5f952bcd023684::t_1749756b30d728 105-106
+  s_5f952bcd023684::t_666a05f8cb980e 35-36
+  s_5f952bcd023684::t_280c7dc644eeb5 26-34,37-44
+  s_5f952bcd023684::t_b58cf584945c8a 102
+  s_5f952bcd023684::t_0a36e999eb2b5e 91-95
+  s_5f952bcd023684::t_067fa609f49387 183-184
+  s_5f952bcd023684::t_aef1231265c378 170-176
+  s_5f952bcd023684::t_0b0839b09fea1a 127-151,154-156,159-165
+  s_5f952bcd023684::t_ccdc49e4dc3be5 185-187,191-193
+  s_5f952bcd023684::t_125d67ec9105b0 194-195
+  s_5f952bcd023684::t_b64da364cf6b9c 96-101
+  s_5f952bcd023684::t_8e755d3d11dfc6 199-200
+  s_5f952bcd023684::t_692c6067bc218e 71-77,84-85
+  s_5f952bcd023684::t_b0f968cf9de628 78-83,87
+  s_5f952bcd023684::t_78a8f0b821ac0d 104
+  s_5f952bcd023684::t_0cd11dd250ea7e 103,107
+  s_5f952bcd023684::t_043ef85c82fa55 88-90
+  s_5f952bcd023684::t_1875c1f60c0b9e 23-25
+  s_5f952bcd023684::t_1faa0fd18bd8e7 177-182
+  s_5f952bcd023684::t_a0ee59a63b3de3 108-110,124-126
+packages/presets/presets/autowiki/scripts/okf-capture.sh
+  s_5f952bcd023684::t_5b20d2e247a937 1-73
+packages/presets/presets/autowiki/roles/cleaner.md
+  s_5f952bcd023684::t_7a87dd2a1f7055 1-4,7-17,19,21-34,37-38
+  s_5f952bcd023684::t_7372664e58e8fb 35
+  s_5f952bcd023684::t_cd2a8871e77ea9 18,20
+  s_5f952bcd023684::t_efefeb9a1dcc63 5-6
+  s_5f952bcd023684::t_e9691eb07fa33a 36
+packages/cli/src/chains/load.ts
+  s_5f952bcd023684::t_6c5b3c8fa00b9b 83
+packages/presets/presets/autowiki/roles/synthesize.md
+  s_5f952bcd023684::t_9112fcc71cd2e3 1-2
+  s_5f952bcd023684::t_8031baecb62c41 3-7,9
+  s_5f952bcd023684::t_e134764aaa2520 10,35,42
+  s_5f952bcd023684::t_c59fa07da44b00 32-34,36,39
+  s_5f952bcd023684::t_5d8fc7cc70d34a 11-16,20-26
+  s_5f952bcd023684::t_26a96480221bc7 37
+  s_5f952bcd023684::t_0029323653d1f6 8,31,38,43,47
+  s_5f952bcd023684::t_5c35162d2e796d 40-41
+  s_5f952bcd023684::t_c6d7e84776df7e 17-19,27-30,44-46,48
+  s_5f952bcd023684::t_4f9cbd6809515b 49
+packages/presets/presets/autowiki/scripts/okf-init.sh
+  s_5f952bcd023684::t_ea669dbf306401 53-55,59-69
+  s_5f952bcd023684::t_fca6f6faac4f86 1-6,10,16-17,21-31,33-35,39-51,70-92,101-116
+  s_5f952bcd023684::t_432238f6f47694 93-100
+  s_5f952bcd023684::t_7379a7199382b2 52,56-58
+  s_5f952bcd023684::t_63ed50c22be400 117
+  s_5f952bcd023684::t_e8d35abc4503ff 32,36-38
+  s_5f952bcd023684::t_a2db17e247979d 7-9,11-15,18-20
+packages/presets/presets/autowiki/scripts/okf-source-start.sh
+  s_5f952bcd023684::t_17a1ce58845b08 1-23
+packages/presets/presets/autowiki/harness.md
+  s_5f952bcd023684::t_e06fd9d7843e82 46-47
+  s_5f952bcd023684::t_c6d16706443394 41-45
+  s_5f952bcd023684::t_51cba53a6c7c14 1-5,29-37,56-62
+  s_5f952bcd023684::t_65fbe4219f99b0 6-14,16-17
+  s_5f952bcd023684::t_f9fc93823aa7cb 28
+  s_5f952bcd023684::t_9759723d801095 15,18-27
+  s_5f952bcd023684::t_fc250a8fc87670 48-55
+  s_5f952bcd023684::t_76248b5dfa3237 38-40
+packages/presets/presets/autowiki/scripts/okf-slug.sh
+  s_5f952bcd023684::t_2c24ce84a24bc8 1-24
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_dcf3ece84cba29 49-50,52-53
+  s_5f952bcd023684::t_05a2b3c7abfc01 4,9,14,19,24-28
+  s_5f952bcd023684::t_f0548b1e007179 62-63
+  s_5f952bcd023684::t_df9a07e2057eed 7-8
+  s_5f952bcd023684::t_0767cd6993d86b 66,68
+  s_5f952bcd023684::t_d1b6973b53f080 20
+  s_5f952bcd023684::t_ecbc150356eef4 21
+  s_5f952bcd023684::t_7bf05200aa9f20 40
+  s_5f952bcd023684::t_19249efb50a30a 32
+  s_5f952bcd023684::t_885b5966503c50 5
+  s_5f952bcd023684::t_2a3d100f873bd8 6
+  s_5f952bcd023684::t_a5fc096dcbcc2d 10-13
+  s_5f952bcd023684::t_fd967e81c8f44b 39,44,54-57
+  s_5f952bcd023684::t_fbaedcdb8f9797 42-43
+  s_5f952bcd023684::t_a5e87b32053298 15-18
+  s_5f952bcd023684::t_3647967adc210d 1
+  s_5f952bcd023684::t_e8bd08abf237a1 2-3
+  s_5f952bcd023684::t_397ed14cac1df6 33-38
+  s_5f952bcd023684::t_2d37a74a935d4f 41,46,51
+  s_5f952bcd023684::t_278e746b7e7a4b 45
+  s_5f952bcd023684::t_0aa777fa1eded6 47-48
+  s_5f952bcd023684::t_e34c923ec8bb64 59-61,64-65
+  s_5f952bcd023684::t_65e643f4b69123 67
+  s_5f952bcd023684::t_3311069702491b 69-70
+  s_5f952bcd023684::t_e35dba3c6a221f 29-31
+  s_5f952bcd023684::t_9125ac418026bb 58
+  s_5f952bcd023684::t_a86906c606527c 22-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2627f6d191c31c680e2a68c44f808c0499b9934c",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
