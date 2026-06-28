@@ -1,0 +1,54 @@
+packages/presets/presets/okf-wiki/autoloops.toml
+  s_5f952bcd023684::t_1dfba1d67ad0af 30-34
+packages/presets/presets/okf-wiki/harness.md
+  s_5f952bcd023684::t_bf653c1de68b7c 23-24
+  s_5f952bcd023684::t_3f37d85b560719 22
+packages/presets/presets/okf-wiki/roles/advance.md
+  s_5f952bcd023684::t_a75ffc25548524 10-12
+  s_5f952bcd023684::t_7d02897ef7ea5b 39-49
+packages/presets/presets/okf-wiki/roles/writer.md
+  s_5f952bcd023684::t_1ab64aba06a019 37
+  s_5f952bcd023684::t_5e84b1f00aa919 7-8
+  s_5f952bcd023684::t_eb35cf08085ef8 18-19,21-27,30-31
+packages/presets/presets/okf-wiki/hooks/pre-commit
+  s_5f952bcd023684::t_43923384d5d502 1-20,22-23,25-26,28-41,43-68,70-75,77-86
+packages/presets/presets/okf-wiki/README.md
+  s_5f952bcd023684::t_45a1688c1f0882 111
+  s_5f952bcd023684::t_542bf70de63d8c 43-45,49-51
+  s_5f952bcd023684::t_5cb71708ea8079 90-99
+  s_5f952bcd023684::t_64638dd643f620 34-37
+  s_5f952bcd023684::t_dbf22c32d023c0 64
+  s_5f952bcd023684::t_1f863597cfdc25 100-102,104,106-109
+packages/presets/presets/okf-wiki/roles/cleaner.md
+  s_5f952bcd023684::t_dfde96c0fadaf6 16-20
+  s_5f952bcd023684::t_ebf2e2a1330ecd 53-54,59,65-76
+  s_5f952bcd023684::t_74309af07797a7 8-15
+  s_5f952bcd023684::t_e4d75fdebeddd3 60-64
+  s_5f952bcd023684::t_536c43d9a5845d 105-107
+  s_5f952bcd023684::t_d01359d95f7c1f 3-7
+  s_5f952bcd023684::t_75704b93a6f696 48-52,55
+  s_5f952bcd023684::t_b8638e2ac93603 22-28
+  s_5f952bcd023684::t_b4ef1d5e84cf34 101-103
+  s_5f952bcd023684::t_b652cf386e741d 77-78,80-81,85-88
+  s_5f952bcd023684::t_4a58f1eb6098cf 79,82
+  s_5f952bcd023684::t_75da2ee1976ecb 83-84
+  s_5f952bcd023684::t_cc42cc349f2215 21
+packages/presets/presets/okf-wiki/roles/synthesize.md
+  s_5f952bcd023684::t_e3fbb9195f270c 16-21,24,26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "c65070e2a915b0d1a3da51a3b97b75550d9df45b",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
