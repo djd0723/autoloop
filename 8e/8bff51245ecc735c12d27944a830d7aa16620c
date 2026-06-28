@@ -1,0 +1,52 @@
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_1749756b30d728 97-98
+  s_5f952bcd023684::t_b58cf584945c8a 95
+  s_5f952bcd023684::t_893744f1b8e284 184-186
+  s_5f952bcd023684::t_55c68c0393a504 19-23,29-32
+  s_5f952bcd023684::t_54e2fd78159ce7 70-73,76-77
+  s_5f952bcd023684::t_932a31123c257c 27-28
+  s_5f952bcd023684::t_889bd4e9a46785 86,88
+  s_5f952bcd023684::t_692c6067bc218e 59-69,74-75
+  s_5f952bcd023684::t_452e3d5944fda5 87
+  s_5f952bcd023684::t_125d67ec9105b0 182-183
+packages/presets/presets/autowiki/roles/merger.md
+  s_5f952bcd023684::t_31b54eb2b0a60e 1-24
+packages/presets/presets/autowiki/roles/synthesize.md
+  s_5f952bcd023684::t_4f9cbd6809515b 37,47
+  s_5f952bcd023684::t_e134764aaa2520 6-11,14-15,17-18,22-23,25-26,28-35,38-39,45-46
+  s_5f952bcd023684::t_26a96480221bc7 36
+packages/presets/presets/autowiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_bc1d6d54cb81d9 19-20
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_8b86fdbe04fcee 6
+  s_5f952bcd023684::t_fd967e81c8f44b 50-57
+  s_5f952bcd023684::t_dcf3ece84cba29 45-46,48-49
+  s_5f952bcd023684::t_05a2b3c7abfc01 24-28
+  s_5f952bcd023684::t_33b1c8d9a97a87 67,69-72
+  s_5f952bcd023684::t_2d37a74a935d4f 30-31,42,47
+  s_5f952bcd023684::t_ecbc150356eef4 21
+  s_5f952bcd023684::t_65e643f4b69123 68
+  s_5f952bcd023684::t_a2959628794240 32-34
+  s_5f952bcd023684::t_9125ac418026bb 58
+packages/presets/presets/autowiki/roles/advance.md
+  s_5f952bcd023684::t_de3e9339ddf08c 3-5,8-11,16-17,21-22,34-35,37-38,42-44,46-47,50,52,57,78-79,81-83,85
+  s_5f952bcd023684::t_23c2f2ecf4ebf9 7,12,14-15,18-20,45,48-49,69,72-73
+packages/presets/presets/autowiki/roles/writer.md
+  s_5f952bcd023684::t_d9182ab22c06d1 1-3,6,23-25,27,29,31,33-34,37-38,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "8e8bff51245ecc735c12d27944a830d7aa16620c",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
