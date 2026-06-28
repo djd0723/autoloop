@@ -1,0 +1,21 @@
+packages/presets/presets/autowiki/roles/writer.md
+  s_5f952bcd023684::t_ac6c76fadd0260 21-27
+packages/presets/presets/autowiki/harness.md
+  s_5f952bcd023684::t_c6d16706443394 23-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "2feaf8ff8ffe05cfb0d82377be010358d585dc1e",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
