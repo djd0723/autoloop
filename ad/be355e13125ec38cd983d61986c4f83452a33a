@@ -1,0 +1,43 @@
+packages/presets/presets/okf-wiki/roles/cleaner.md
+  s_5f952bcd023684::t_d2cb101d2aff52 3-4,7-12,14-18,20,22-27,29-38,54,61-62,64-66,70-72
+  s_5f952bcd023684::t_c65219bf31797e 40-46,48-53,55-58
+packages/presets/presets/okf-wiki/roles/writer.md
+  s_5f952bcd023684::t_ce11fd38727135 20-25,27-31
+  s_5f952bcd023684::t_2837c0771e52b8 12-15
+packages/presets/presets/okf-wiki/autoloops.toml
+  s_5f952bcd023684::t_ca22195160b7c3 18-21
+packages/presets/presets/okf-wiki/topology.toml
+  s_5f952bcd023684::t_14b0e928bea6fc 24-37,42,44
+packages/presets/presets/okf-wiki/roles/synthesize.md
+  s_5f952bcd023684::t_4eea64825ed821 30
+  s_5f952bcd023684::t_9dd0084ce0a0a6 6-11,14,17-20,23
+  s_5f952bcd023684::t_5554b3c40f2c7f 24-27,33
+packages/presets/presets/okf-wiki/harness.md
+  s_5f952bcd023684::t_7961876a9c5ce4 11-17
+packages/presets/presets/okf-wiki/scripts/okf-capture.sh
+  s_5f952bcd023684::t_e4f9f9a84afffb 62-66,68
+  s_5f952bcd023684::t_922b64e8e90e4a 50,56
+  s_5f952bcd023684::t_a49034b1f66ad7 1-49,51-55,57-61,67
+packages/presets/presets/okf-wiki/scripts/okf-commit.sh
+  s_5f952bcd023684::t_7acad0efe00d1c 1-21
+packages/presets/presets/okf-wiki/README.md
+  s_5f952bcd023684::t_64ad128dad26d1 114-119
+  s_5f952bcd023684::t_874ea5d7fe6f69 106-107
+  s_5f952bcd023684::t_c89562d18c1c92 111-113,120-124,126,130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "adbe355e13125ec38cd983d61986c4f83452a33a",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
