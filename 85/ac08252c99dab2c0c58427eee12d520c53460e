@@ -1,0 +1,29 @@
+packages/presets/presets/autowiki/roles/advance.md
+  s_5f952bcd023684::t_f4ab9083cc4182 43-52
+packages/harness/src/config-helpers.ts
+  s_5f952bcd023684::t_950d5b1dc801fb 517-520
+packages/presets/presets/autowiki/scripts/okf-init.sh
+  s_5f952bcd023684::t_fca6f6faac4f86 1-46,63-106
+  s_5f952bcd023684::t_ea669dbf306401 47-62
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_aef1231265c378 140-146
+  s_5f952bcd023684::t_067fa609f49387 153-154
+  s_5f952bcd023684::t_0cd11dd250ea7e 79-81
+  s_5f952bcd023684::t_0b0839b09fea1a 101-102,104-105,108,111-114,116-118,123-126,129-134,137-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "85ac08252c99dab2c0c58427eee12d520c53460e",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
