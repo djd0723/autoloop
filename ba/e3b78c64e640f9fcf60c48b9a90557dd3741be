@@ -1,0 +1,147 @@
+packages/presets/presets/autowiki/scripts/okf-capture.sh
+  s_5f952bcd023684::t_5b20d2e247a937 1-73
+packages/presets/presets/autowiki/scripts/okf-source-start.sh
+  s_5f952bcd023684::t_17a1ce58845b08 1-23
+packages/presets/presets/autowiki/roles/synthesize.md
+  s_5f952bcd023684::t_5d8fc7cc70d34a 11-16,20-26
+  s_5f952bcd023684::t_26a96480221bc7 37
+  s_5f952bcd023684::t_8031baecb62c41 3-7,9
+  s_5f952bcd023684::t_4f9cbd6809515b 49
+  s_5f952bcd023684::t_9112fcc71cd2e3 1-2
+  s_5f952bcd023684::t_0029323653d1f6 8,31,38,43,47
+  s_5f952bcd023684::t_e134764aaa2520 10,35,42
+  s_5f952bcd023684::t_c59fa07da44b00 32-34,36,39
+  s_5f952bcd023684::t_c6d7e84776df7e 17-19,27-30,44-46,48
+  s_5f952bcd023684::t_5c35162d2e796d 40-41
+packages/cli/src/chains/load.ts
+  s_5f952bcd023684::t_6c5b3c8fa00b9b 83
+packages/presets/presets/autowiki/hooks/pre-commit
+  s_5f952bcd023684::t_96d6a3b742b339 1-86
+packages/presets/presets/autowiki/roles/advance.md
+  s_5f952bcd023684::t_abcbd6a303af27 23-28
+  s_5f952bcd023684::t_e34e9d7717b5ce 3-14,16-17,22,29,31-32,38,61-62
+  s_5f952bcd023684::t_2faf730b0504e4 18-21
+  s_5f952bcd023684::t_471ff7032799d5 35-37
+  s_5f952bcd023684::t_513e7fcdbf0d79 1-2
+  s_5f952bcd023684::t_b7ff31a7a5c955 30,60
+  s_5f952bcd023684::t_d9400c512fc6c4 51-52
+  s_5f952bcd023684::t_f4ab9083cc4182 39-48
+  s_5f952bcd023684::t_eca3ac35e529b7 49
+  s_5f952bcd023684::t_c1fd1de682c189 15
+  s_5f952bcd023684::t_6e6db941b59648 33-34
+  s_5f952bcd023684::t_23c2f2ecf4ebf9 53-54
+  s_5f952bcd023684::t_432581c736ddbd 50,59,63
+  s_5f952bcd023684::t_538514450e82ab 55-58
+packages/presets/presets/autowiki/roles/cleaner.md
+  s_5f952bcd023684::t_7372664e58e8fb 34
+  s_5f952bcd023684::t_7a87dd2a1f7055 1-33,35-37
+packages/presets/presets/autowiki/autoloops.toml
+  s_5f952bcd023684::t_307b9c406c8859 1-42
+packages/presets/presets/autowiki/scripts/okf-slug.sh
+  s_5f952bcd023684::t_2c24ce84a24bc8 1-24
+packages/presets/presets/autowiki/scripts/okf-init.sh
+  s_5f952bcd023684::t_ea669dbf306401 48-50,54-64
+  s_5f952bcd023684::t_7379a7199382b2 47,51-53
+  s_5f952bcd023684::t_fca6f6faac4f86 1-46,65-108
+packages/presets/presets/autowiki/scripts/okf-commit.sh
+  s_5f952bcd023684::t_aa3ea00a2d35c3 16-22,24
+  s_5f952bcd023684::t_1118be6d749737 2-6,8-11,14-15,23
+  s_5f952bcd023684::t_c5ba9494443912 12-13
+  s_5f952bcd023684::t_dc43aad502cd0f 7
+  s_5f952bcd023684::t_ce5e5c0c57898c 1
+packages/presets/presets/autowiki/harness.md
+  s_5f952bcd023684::t_76248b5dfa3237 28-30
+  s_5f952bcd023684::t_c6d16706443394 31-35
+  s_5f952bcd023684::t_65fbe4219f99b0 6-17
+  s_5f952bcd023684::t_51cba53a6c7c14 1-5,19-27,46-52
+  s_5f952bcd023684::t_e06fd9d7843e82 36-37
+  s_5f952bcd023684::t_fc250a8fc87670 38-45
+  s_5f952bcd023684::t_f9fc93823aa7cb 18
+packages/presets/presets/autowiki/roles/writer.md
+  s_5f952bcd023684::t_de0895ce38e172 39,42,44
+  s_5f952bcd023684::t_d9182ab22c06d1 8,38,40,46,48-49,52-53,58
+  s_5f952bcd023684::t_aea8d85054e976 17-24,27-28
+  s_5f952bcd023684::t_5a9944b5fa7a29 59-60
+  s_5f952bcd023684::t_e8e29aad09c38a 55-57
+  s_5f952bcd023684::t_ac6c76fadd0260 29-35
+  s_5f952bcd023684::t_ff4e82d31d1659 6-7,9-16,25-26,36-37,41,43,45,47,50-51,54
+  s_5f952bcd023684::t_5ac2b1cf1b9b62 1-5
+packages/presets/presets/autowiki/roles/merger.md
+  s_5f952bcd023684::t_31b54eb2b0a60e 4,6-8,10-11,14-15
+  s_5f952bcd023684::t_7709b5fb8213b3 5
+  s_5f952bcd023684::t_55bbe3e9a38c4c 1-3,9,12-13,16-23
+packages/presets/presets/autowiki/scripts/okf-source-merge.sh
+  s_5f952bcd023684::t_c03637393cc68f 1
+  s_5f952bcd023684::t_6acacbf6051d53 2-29
+packages/presets/presets/autowiki/README.md
+  s_5f952bcd023684::t_0cd11dd250ea7e 103,107
+  s_5f952bcd023684::t_692c6067bc218e 71-77,84-85
+  s_5f952bcd023684::t_b64da364cf6b9c 96-101
+  s_5f952bcd023684::t_aef1231265c378 166-172
+  s_5f952bcd023684::t_125d67ec9105b0 190-191
+  s_5f952bcd023684::t_280c7dc644eeb5 26-34,37-44
+  s_5f952bcd023684::t_ccdc49e4dc3be5 181-183,187-189
+  s_5f952bcd023684::t_8e755d3d11dfc6 195-196
+  s_5f952bcd023684::t_54e2fd78159ce7 86
+  s_5f952bcd023684::t_b0f968cf9de628 78-83,87
+  s_5f952bcd023684::t_a0ee59a63b3de3 108-110,124-126
+  s_5f952bcd023684::t_043ef85c82fa55 88-90
+  s_5f952bcd023684::t_28b0833fae814b 165
+  s_5f952bcd023684::t_f6c08c72f5f74d 3-6,8-12,14-18,20-21
+  s_5f952bcd023684::t_38183571928e58 1-2,7,13,19,22,48-67,111-123,184-186
+  s_5f952bcd023684::t_1749756b30d728 105-106
+  s_5f952bcd023684::t_fc00cac0786644 45-47,68-70
+  s_5f952bcd023684::t_893744f1b8e284 192-194
+  s_5f952bcd023684::t_666a05f8cb980e 35-36
+  s_5f952bcd023684::t_78a8f0b821ac0d 104
+  s_5f952bcd023684::t_0b0839b09fea1a 127-164
+  s_5f952bcd023684::t_b58cf584945c8a 102
+  s_5f952bcd023684::t_1faa0fd18bd8e7 173-178
+  s_5f952bcd023684::t_067fa609f49387 179-180
+  s_5f952bcd023684::t_1875c1f60c0b9e 23-25
+  s_5f952bcd023684::t_0a36e999eb2b5e 91-95
+packages/presets/presets/autowiki/topology.toml
+  s_5f952bcd023684::t_f0548b1e007179 62-63
+  s_5f952bcd023684::t_0aa777fa1eded6 47-48
+  s_5f952bcd023684::t_e34c923ec8bb64 59-61,64-65
+  s_5f952bcd023684::t_a5fc096dcbcc2d 10-13
+  s_5f952bcd023684::t_a86906c606527c 22-23
+  s_5f952bcd023684::t_0767cd6993d86b 66,68
+  s_5f952bcd023684::t_df9a07e2057eed 7-8
+  s_5f952bcd023684::t_ecbc150356eef4 21
+  s_5f952bcd023684::t_7bf05200aa9f20 40
+  s_5f952bcd023684::t_fbaedcdb8f9797 42-43
+  s_5f952bcd023684::t_19249efb50a30a 32
+  s_5f952bcd023684::t_2d37a74a935d4f 41,46,51
+  s_5f952bcd023684::t_05a2b3c7abfc01 4,9,14,19,24-28
+  s_5f952bcd023684::t_3647967adc210d 1
+  s_5f952bcd023684::t_885b5966503c50 5
+  s_5f952bcd023684::t_e35dba3c6a221f 29-31
+  s_5f952bcd023684::t_fd967e81c8f44b 39,44,54-57
+  s_5f952bcd023684::t_dcf3ece84cba29 49-50,52-53
+  s_5f952bcd023684::t_278e746b7e7a4b 45
+  s_5f952bcd023684::t_d1b6973b53f080 20
+  s_5f952bcd023684::t_2a3d100f873bd8 6
+  s_5f952bcd023684::t_397ed14cac1df6 33-38
+  s_5f952bcd023684::t_65e643f4b69123 67
+  s_5f952bcd023684::t_3311069702491b 69-70
+  s_5f952bcd023684::t_a5e87b32053298 15-18
+  s_5f952bcd023684::t_9125ac418026bb 58
+  s_5f952bcd023684::t_e8bd08abf237a1 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "bae3b78c64e640f9fcf60c48b9a90557dd3741be",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": null
+    }
+  }
+}
