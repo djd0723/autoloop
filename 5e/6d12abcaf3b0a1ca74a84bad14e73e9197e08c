@@ -1,0 +1,24 @@
+packages/harness/src/emit.ts
+  s_5f952bcd023684::t_36d5c1626ef3f5 318-323
+packages/harness/src/backend/types.ts
+  s_5f952bcd023684::t_fbe4f557842692 29
+packages/harness/test/harness/prompt-backend.test.ts
+  s_5f952bcd023684::t_bafb78392b2cf2 141
+  s_5f952bcd023684::t_86d07de5dabb63 184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "5e6d12abcaf3b0a1ca74a84bad14e73e9197e08c",
+  "prompts": {},
+  "sessions": {
+    "s_5f952bcd023684": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "25191581-8a9c-4732-95b4-b3d46106e34d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
