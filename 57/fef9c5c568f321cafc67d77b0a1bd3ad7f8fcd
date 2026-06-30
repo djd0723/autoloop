@@ -1,0 +1,24 @@
+packages/presets/presets/autowiki/README.md
+  s_05f79ec5b3394e::t_63c0dc109bf884 185-193
+  s_05f79ec5b3394e::t_4ef99abfcfcf71 283-289
+packages/presets/presets/autowiki/scripts/okf-capture-x.sh
+  s_05f79ec5b3394e::t_f0d213f3c25a54 7,11,14-18,36-53,55-81,84-86,88-105,128-132
+packages/presets/presets/autowiki/roles/cleaner.md
+  s_05f79ec5b3394e::t_90281676df2e87 66-68,73-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "57fef9c5c568f321cafc67d77b0a1bd3ad7f8fcd",
+  "prompts": {},
+  "sessions": {
+    "s_05f79ec5b3394e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83cf2a3b-d735-4617-bd4b-805256fa2942",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
