@@ -1,0 +1,203 @@
+packages/core/src/runs-health.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 11,13-17,19,150-190
+packages/core/test/journal-durability.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-119
+packages/harness/src/fanout-runner.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-77
+packages/cli/src/commands/capabilities.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 75-81,88-93
+packages/cli/test/commands/stats.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 80-114
+packages/harness/test/harness/tamper.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-158
+packages/core/test/single-file-preset.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-229
+packages/harness/test/harness/event-emitter.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 60,62-65,114-134
+  s_05f79ec5b3394e::t_0a5e462296766e 135-136
+packages/core/test/fanout.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-330
+packages/backends/src/claude-sdk-client.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 3-4,12-15,36-57,181-190
+packages/cli/test/architect-brief.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-23
+packages/cli/test/commands/doctor.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 52-69
+  s_05f79ec5b3394e::t_881767fa859e86 51
+packages/cli/test/commands/preset.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-117
+packages/core/src/config.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 7,9,103-120,131-132,138,187-217,262-303,393-407,409
+  s_05f79ec5b3394e::t_1e1a7063f56b6a 408,410
+packages/core/src/journal.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 2,4,6,9-10,13,110-124,130,265-271,275-331
+packages/cli/src/commands/verify.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-124
+packages/cli/src/usage.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 38,40,217-223
+packages/backends/src/acp-client.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 5-8,194-206
+packages/backends/test/claude-sdk-session.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 215-232
+packages/harness/src/git-diff.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-80
+packages/harness/src/index.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 17-21,49,62-66,73-74,97-103,106-108,234-236,527-536,566-576
+packages/harness/src/circuit-breaker.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-58
+packages/harness/src/types.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 16-22,31-42,66-79,82-117,151-161,174-179,240-245
+packages/harness/test/harness/notify.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 54-57
+packages/core/test/concurrency.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-93
+packages/harness/test/harness/single-file-run-path.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-99
+packages/backends/src/error-class.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-79
+packages/cli/src/commands/doctor.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 14,52,138-175
+  s_05f79ec5b3394e::t_41c33422ae2fa2 176-178
+docs/examples/autoreview.toml
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-36
+packages/harness/src/intent.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-187
+packages/presets/presets/autoarchitect.toml
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-109
+packages/cli/src/main.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 24,32,113-115,142-144
+vitest.config.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 32-33,84-95,97
+packages/backends/test/command-risk.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-170
+packages/core/src/topology.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-2,4-9,55,118-140,204,214,259-305,471-483,487-498,515-520,536-576,580-651,660,666,671-672,723,749
+packages/harness/test/harness/premature-quit.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-112
+packages/harness/src/stop.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 82-118,265-350
+  s_05f79ec5b3394e::t_e47d4290c9e193 351
+packages/harness/src/completion-lint.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-81
+packages/cli/src/loops/json.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 10,151-152,155
+packages/harness/src/premature-quit.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-94
+packages/harness/test/harness/progress.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-98
+packages/harness/src/postconditions.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-171
+packages/harness/test/harness/circuit-breaker.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-91
+packages/backends/src/command-risk.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-236
+packages/backends/test/error-class.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-62
+packages/cli/src/commands/preset.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-88
+packages/backends/src/index.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 26-35
+packages/cli/src/commands/robot-docs.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 28
+packages/core/src/registry/types.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 12-17,40-56,58-59
+packages/cli/src/cli/render.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 34-36,41,43,164-223
+  s_05f79ec5b3394e::t_68f28b6443da8e 33,224
+packages/core/package.json
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 26-33
+packages/harness/src/config-helpers.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 46,316-321,324,328-331,463,467,482-483,487-493,568-587,601-627,675-679,847-848,852-858
+  s_05f79ec5b3394e::t_0d54a8b7a312e7 859-860
+packages/harness/src/prompt.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 441,447-451
+packages/cli/test/commands/inspect.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 15-16,123-149
+packages/core/src/registry/derive.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 117-119
+packages/harness/src/postfire-verify.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-89
+packages/harness/src/iteration-diff.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-126
+packages/cli/test/commands/verify.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-107
+packages/harness/test/harness/iteration.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 73,99-108,244-360,677-710
+  s_05f79ec5b3394e::t_033174823d58b1 711
+packages/harness/src/notify.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 36-42
+packages/harness/src/tamper.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-147
+packages/cli/src/commands/run.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-2,5,22,40-49,155-161,168-212,267-291,316-317,322-323,424-484,489-492,528-529,534-535
+packages/cli/src/loops/health.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 4,13,21-23,26
+packages/core/src/fanout.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-340
+packages/harness/src/progress.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-73
+packages/core/src/concurrency.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-82
+packages/harness/test/registry-bridge.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 171-175,206-223
+packages/harness/test/harness/completion-lint.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-86
+packages/harness/src/resume.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 121-130,214
+packages/harness/test/harness/iteration-diff.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-84
+packages/harness/test/harness/metareview.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 7,123-124,197-258,391-421,479-523
+packages/cli/src/commands/stats.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 21-22,27-28,79-83,86-90,100,109-112,127,135,141,149
+packages/harness/src/registry-bridge.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 6,10,13-26,43,95-100
+packages/harness/src/iteration.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 3,33-34,36-40,50,59-63,66-72,76,81,224-225,246-248,252-307,511-517,526,531-591,735,745-748,751-752,776-783,790
+packages/harness/test/harness/postconditions.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-192
+.gitignore
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 18
+packages/harness/src/acceptance.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-135
+packages/harness/test/harness/intent.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-128
+packages/harness/test/harness/provisional.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-93
+packages/harness/src/provisional.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-148
+packages/cli/test/commands/inspect-diff.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-75
+packages/harness/test/harness/postfire-verify.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-63
+docs/rfcs/2026-06-24-dynamic-presets-design.md
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-323
+packages/harness/package.json
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 58-105,110-113
+packages/core/test/topology-stages.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-245
+packages/harness/src/metareview.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 4-5,31-39,41-51,53-57,59,61,63-87,168-192,206-216
+packages/harness/test/harness/acceptance.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-100
+packages/harness/test/harness/fanout-runner.test.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 1-120
+packages/cli/src/commands/inspect.ts
+  s_05f79ec5b3394e::t_ca28fbb03e5f34 25-26,48-54,95-97,176-179,184-189,196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "a416f9cb5e1263fdb222c929b61c650141db596c",
+  "prompts": {},
+  "sessions": {
+    "s_05f79ec5b3394e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83cf2a3b-d735-4617-bd4b-805256fa2942",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Dominic Dones <dominicdones@gmail.com>"
+    }
+  }
+}
